@@ -1,0 +1,28 @@
+{
+  "name": "conference-booking-ser",
+  "version": "1.0.0",
+  "description": "Booking service for the conference room booking system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fades-devs/conference-booking-ser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fades-devs/conference-booking-ser/issues"
+  },
+  "homepage": "https://github.com/fades-devs/conference-booking-ser#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^9.0.0"
+  }
+}
